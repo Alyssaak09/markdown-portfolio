@@ -23,6 +23,7 @@ Took the leap of faith by changing career path to Web Development.
 
 ## Menu Navigation
 
+[About Me](index)
 [Employment History](employment)
 [Education](education)
 [Contact](contact)
