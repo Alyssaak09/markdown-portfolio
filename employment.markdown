@@ -17,6 +17,33 @@ for the company’s website and other digital channels.
 - Edited photos in Photoshop to ensure that they were aesthetically pleasing while still
 representing the brand’s message.
 
+### Wrap-Around Life Management Skills Facilitator
+Company:COSTI Employment Services
+
+- Responsible for assisting clients to determine needs to create a work plan to achieve goals.
+  
+- Prepare and submit statistical and services reports on program performance; make
+recommendations to address any gaps in service.
+
+- Promoted program’s services to community agencies and partners to build awareness for
+programs provided by COSTI.
+
+- Planned and organized special events such as guest speakers’ sessions and information
+sessions to provide resources for clients to achieve their goals.
+
+### Content Creator/Facilitator
+Company:Tropicana Community Services
+
+- Planned and created videos and content using Adobe and Canva for social media sites like
+Instagram and Google Classroom, which improved youth program engagement by 50%.
+
+- Maintained accurate client records (e.g., weekly subscription registrations, participants with
+special needs, incident reports, etc.).
+
+- Completed projects quickly and met assigned deadlines for creating and posting content
+
+
+
 ## Menu Navigation
 [About Me](index)
 [Education](education)
