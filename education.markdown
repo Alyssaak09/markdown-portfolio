@@ -13,7 +13,7 @@
 
 
 ### Menu Navigation
+[Education](education)
 [About Me](index)
 [Employment History](employment)
-[Education](education)
 [Contact](contact)
