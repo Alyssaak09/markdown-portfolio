@@ -1,7 +1,6 @@
 # Contact
 
-
-
+Contact me at [Linkedin](https://www.linkedin.com/in/alyssa-a-37a515144/) .
 
 
 ## Menu Navigation
