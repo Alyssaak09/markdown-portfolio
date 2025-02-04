@@ -46,7 +46,7 @@ special needs, incident reports, etc.).
 
 ## Menu Navigation
 
-[Employment History](employment)
 [About Me](index)
+[Employment History](employment)
 [Education](education)
 [Contact](contact)
