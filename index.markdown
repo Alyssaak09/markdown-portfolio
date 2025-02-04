@@ -21,7 +21,7 @@ Took the leap of faith by changing career path to Web Development.
 
 
 
-## Meanu
+## Menu Navigation
 
 [Employment History](employment)
 [Education](education)
