@@ -1,8 +1,12 @@
-# Alyssa Austin Portfolio
+# Employment 
 
-This is a paragrah about me...
+## Work Experience
 
+### Photographer/Videographer         2013-Present
+Company: Bonafide Creative Story
+
+
+## Menu Navigation
 [About Me](index)
-[Employment History](employment)
 [Education](education)
 [Contact](contact)
